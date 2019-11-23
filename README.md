@@ -1,2 +1,2 @@
 # jeu_cibles
-Jeu (TP université de Lille 1)
+TP de l'université de Lille 1
